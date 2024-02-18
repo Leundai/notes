@@ -1,2 +1,2 @@
 # notes
-notes from books i've read
+notes from stuff i've read
