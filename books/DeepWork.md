@@ -35,4 +35,5 @@ Keep in mind that some jobs don't require deep understanding. This can include
 positions at executive level. But again, for a software engineer this is an obvious 
 answer that deep knowledge is vital.
 
+### Rules
 
